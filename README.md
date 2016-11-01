@@ -5,11 +5,11 @@ A coding competition where you can practice your programming skills.
 ##[Kattis](https://open.kattis.com/contests/vq97az/problems)
 
 
-Problems:
+##Problems:
 
-QuickEstimates
-Everywhere  ----- Done
-Prsteni
-CD
-CountingStars
-BuildDependencies
+###QuickEstimates
+###Everywhere  ----- Done
+###Prsteni
+###CD
+###CountingStars
+###BuildDependencies
